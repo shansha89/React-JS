@@ -1,0 +1,22 @@
+{
+  "name": "day-03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shansha89/React-JS.git"
+  },
+  "author": "Karthick Arumugam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shansha89/React-JS/issues"
+  },
+  "homepage": "https://github.com/shansha89/React-JS#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
